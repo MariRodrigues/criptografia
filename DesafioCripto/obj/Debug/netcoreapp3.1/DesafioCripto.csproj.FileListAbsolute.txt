@@ -1,0 +1,13 @@
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.exe
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.deps.json
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.runtimeconfig.json
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.dll
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\DesafioCripto.pdb
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.csprojAssemblyReference.cache
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.AssemblyInfo.cs
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.dll
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.pdb
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mari\source\repos\DesafioCripto\DesafioCripto\obj\Debug\netcoreapp3.1\DesafioCripto.csproj.CopyComplete
